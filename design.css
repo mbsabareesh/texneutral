@@ -1,9 +1,33 @@
-img{
-    height: 200px;
-    width: 200px;
-    border: 5px solid;
+.onecard{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+
+}
+.card{
+    width: 325px;
+    background-color: #f0f0f0;
     border-radius: 10px;
-    padding: 5px;
+    margin: 20px;
+
+}
+img{
+    width: 100%;
+    height: auto;
+}
+p{
+    text-align: center;
+    color:
+}
+.sabareesh{
     display: inline;
 }
-
+nav ul{
+    list-style-type: none;
+    padding: o; 
+}
+nav ul li{
+    display: inline;
+    margin: 10px 15px;
+}
