@@ -10,9 +10,13 @@ nav ul{
     padding: o; 
 }
 nav ul li{
+    color:white;
     display: inline;
     margin: 10px 15px;
 }
 video{
     border-radius: 10px;
+}
+a{
+    color:white;
 }
