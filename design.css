@@ -8,6 +8,7 @@
     background-color: #f0f0f0;
     border-radius: 10px;
     margin: 20px;
+    text-align: center;
 
 }
 img{
@@ -20,4 +21,11 @@ p{
 }
 .sabareesh{
     display: flex;
+    flex-direction: column;
 }
+del{
+    text-align: center;
+    color: black;
+}
+
+
