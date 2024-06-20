@@ -10,3 +10,44 @@ img{
 body{
     background-color: whitesmoke;
 }
+.one{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+
+}
+.one img{
+    height: 165px;
+    width: 165px;
+    float: left;
+}
+.one h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.two{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.three{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.four{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.five{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
