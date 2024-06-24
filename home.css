@@ -44,3 +44,12 @@ button{
 a{
     color: white;
 }
+.box{
+    height: 600px;
+    background-image: url(IMAGE/image1.jpg);
+    background-size: cover; 
+    border-radius: 20px;  
+}
+.box button{
+    margin-top: 500px;
+}
