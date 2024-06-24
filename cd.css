@@ -1,0 +1,18 @@
+.card{
+    width: 200px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    transform: 2s;
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.sabareesh{
+    display: flex;
+    flex-direction: row;
+}
