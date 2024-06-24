@@ -1,45 +1,24 @@
-.onecard{
-    display: flex;
-    justify-content: center;
-    margin-top: 100px;
+.cointainer{
+     display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    
 }
-.card{
+.box{
+    background-color: #a7aaac;
+    display: grid;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.box{
     width: 200px;
-    background-color: #f0f0f0;
     border-radius: 10px;
     margin: 20px;
     padding-bottom: 10px;
     text-align: center;
     transform: 2s;
 }
-.card:hover{
-    transition: scale(1.3);
-    background-color: aqua;
+.box:hover{
+    background-color: aquamarine;
 }
-img{
-    width: 100%;
-    height: auto;
-}
-p{
-    text-align: center;
-    color:black 
-}
-.sabareesh{
-    display: flex;
-    flex-direction: row;
-}
-del{
-    text-align: center;
-    color: black;
-}
-button{
-    background-color: rgb(15, 188, 44);
-    border-radius: 20px;
-    border-color: white;
-    height: 40px;
-    width: 100px;
-}
-a{
-    color: white;
-}
-
