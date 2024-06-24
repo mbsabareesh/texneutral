@@ -82,3 +82,11 @@ button{
 a{
     color: white;
 }
+.buttonone{
+    background-color: rgb(176, 227, 6);
+    border-radius: 20px;
+    border-color: white;
+    height: 40px;
+    width: 100px;
+
+}
