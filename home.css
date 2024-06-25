@@ -53,3 +53,16 @@ a{
 .box button{
     margin-top: 500px;
 }
+.box2{
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.box2 img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.h4{
+    display: grid;
+    color: BlACK;
+}
