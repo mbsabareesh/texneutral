@@ -20,7 +20,7 @@ img{
    transform: 2s;
 }
 .box:hover{
-   background-color: rgb(241, 168, 8);
+   transform: scale(1.1);
 }
 h1{
     color: red;
