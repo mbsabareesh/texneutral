@@ -11,7 +11,9 @@
 img{
     width: 100%;
     height: auto;
+    transition: 2s;
 }
+
 .box{
     width: 200px;
     border-radius: 10px;
@@ -21,6 +23,6 @@ img{
     transform: 2s;
 }
 .box:hover{
-    background-color: aquamarine;
+    transform: scale(1.1);
 }
 
