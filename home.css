@@ -10,11 +10,13 @@ nav{
 }
 nav ul{
     list-style-type: none;
+    text-decoration: none; 
     padding: o; 
 }
 nav ul li{
     color:white;
     display: inline;
+    text-decoration: none;
     margin: 10px 15px;
 }
 video{
@@ -22,6 +24,11 @@ video{
 }
 a{
     color:white;
+    text-decoration: none; 
+    transition: 0.3s ease;
+}
+a:hover{
+    color: rgb(242, 5, 191);
 }
 .two img{
     height: 500px;
@@ -97,8 +104,8 @@ a{
 }
 .social a:hover{
     transform: scale(1.2) translateY(-20px);
-    color: rgba(12, 231, 12, 0.934);
-    border: 2px solid rgba(12, 231, 12, 0.934);
+    color: rgb(242, 5, 191);
+    border: 2px solid rgb(242, 5, 191);
 
 }
 .footer ul{
@@ -114,4 +121,7 @@ a{
     border-bottom: 3px solid transparent;
     display: inline-block;
     padding: 0 15px;
+}
+.footer p{
+    color: white;
 }
